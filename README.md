@@ -1,5 +1,5 @@
 # Project Name
-Lending clun case study EDA
+Lending club case study EDA
 
 
 ## Table of Contents
