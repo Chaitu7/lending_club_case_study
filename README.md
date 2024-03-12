@@ -25,4 +25,4 @@ Problem statement is to determine a loan applicant from consumer finance company
 
 
 ## Contact
-Created by Chaitu7 - feel free to contact me!
+Krishna Chaitanya Bh https://github.com/Chaitu7
